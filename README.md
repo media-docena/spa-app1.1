@@ -29,3 +29,7 @@ Se implementaron mejoras en la interfaz tales como:
   <img src='src/assets/img/filtrado1.png' width='600px'>
 
   <img src='src/assets/img/filtrado2.png' width='600px'>
+
+## Link a la app en vercel
+
+https://spa11.vercel.app/
