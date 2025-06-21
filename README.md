@@ -21,7 +21,11 @@ Se implementaron mejoras en la interfaz tales como:
 - Efecto hover en tarjetas para destacar información.
 - Animación con efecto de escalado en íconos de tecnologías.
 - Paginación en la sección de música.
-  <img src='src/assets/img/Paginacion.png'>
+
+  <img src='src/assets/img/Paginacion.png' width='600px'>
+
 - Filtrado por categoría en la sección de películas.
-  <img src='src/assets/img/filtrado1.png'>
-  <img src='src/assets/img/filtrado2.png'>
+
+  <img src='src/assets/img/filtrado1.png' width='600px'>
+
+  <img src='src/assets/img/filtrado2.png' width='600px'>
